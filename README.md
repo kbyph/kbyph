@@ -1,6 +1,6 @@
 ### Hello, my name is Kobe Pho!
 
-I am a Front End Developer that's passionate about expressing creativity through design and user interfaces.
+I'm a Front End Developer driven by a passion for unleashing creativity through innovative design and user interfaces.
 
 
 ## Technologies
